@@ -1,1 +1,1 @@
-# 3D-heckers
+# 3D-checkers
